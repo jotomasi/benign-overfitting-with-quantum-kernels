@@ -1,4 +1,4 @@
-#Benign Overfitting with Quantum Kernels
+# Benign Overfitting with Quantum Kernels
 We provide here the code used for the numerical experiments in:
 [1] Joachim Tomasi, Sandrine Anthoine, Hachem Kadri. "*Benign Overfitting with Quantum Kernels*" UAI 2026
 The `code/` directory includes all the numerical experiments described in the Appendix F of the paper. The implementation is written in Julia.
