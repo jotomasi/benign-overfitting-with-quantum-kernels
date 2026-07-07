@@ -6,6 +6,6 @@ This repository provides the code used for the numerical experiments in:
 The `code/` directory contains all numerical experiments described in Appendix F of the paper. The implementation is written in Python.
 
 
-The experiments and figures corresponding to experiments a, b, c and d can be reproduced by running `Figures_Experiments_a_b_c_d.ipynb`.
+The figures, appearing in Section 4 and in Appendix F,  can be reproduced by running `All_Figures.ipynb`.
 
-The experiments and tables corresponding to the experiment e can be reproduced by running `Tables_Experiments_e.ipynb`.
+The tables, appearing in Appendix F,  can be reproduced by running `All_Tables.ipynb`.
